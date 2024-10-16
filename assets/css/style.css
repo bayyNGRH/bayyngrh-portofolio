@@ -50,7 +50,7 @@
     hsl(227, 100%, 55%)
   );
 
-  /* solid */
+  /* solid colors */
 
   --jet: hsl(0, 0%, 92%);
   --onyx: hsl(0, 0%, 92%);
@@ -109,6 +109,8 @@
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
+
+/* (You may include your reset CSS here if needed) */
 
 *,
 *::before,
